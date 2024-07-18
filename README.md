@@ -9,6 +9,12 @@
 
 This project was designed for Milestone Project 4 of Code Institutes' Level 5 Diploma in Web Development.
 
+Little Pont is fantastic new business that is about to launch in the village of Ponteland, Northumberland. 
+A lack in services for young children and families in the village of Ponteland, led a group of enthusiastic mothers (all with early years and/or teaching experience) to get together and start this exciting new venture. 
+
+Little Pont is primarily a role play village that has been modelled upon the actual village of Ponteland where children can let their imagination run wild. Children enjoy imaginary play.... This new business also a combines Science, Technology, Engineering and Mathematics (STEM) learning created specifically for early years children. Each Class has an exciting STEM learning activity taught by one of our fantastic team. Classes are booked based upon the age of the child but siblings are welcome to come along and get involved. The business is family-orientated and its ethos is to provide a safe, fun and educational place for children and families to come together within their community to learn, play and socialise together. 
+
+The Little Pont team are looking to launch their business with the aid of a brand new website. Ponteland and its surrounding areas are highly affluent, and they want the website to appeal to this local community. The website must be easy to access and simple to use. It needs to look professional and aesthetic but also fun and playful. 
 
 This website has been built using HTML, CSS, Javascript and Python.
 
