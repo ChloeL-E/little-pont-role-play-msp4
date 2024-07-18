@@ -1,131 +1,295 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+<h1 align="center">Little Pont</h1>
+<h2 align="center">Role Play Village</h2>
 
-Welcome Chloe Livingstone-Evans,
+- - - 
+![Responsive Mockup]()
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
 
-You can safely delete this README.md file or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **June 18, 2024**
+# Little Pont
 
-## Gitpod Reminders
+This project was designed for Milestone Project 4 of Code Institutes' Level 5 Diploma in Web Development.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 
-`python3 -m http.server`
+This website has been built using HTML, CSS, Javascript and Python.
 
-A blue button should appear to click: _Make Public_,
+[View the live project here.]()
 
-Another blue button should appear to click: _Open Browser_.
+## Contents
 
-To run a backend Python file, type `python3 app.py` if your Python file is named `app.py`, of course.
+* [Languages Used](#languages-used)
+* [User-Experience-Design](#user-experience-design)
+    * [User Stories](#user-stories)
+* [Design](#design)
+  * [Color Scheme](#color-scheme)
+  * [Typography](#typography)
+  * [Imagery](#imagery)
+  * [Wireframes](#wireframes)
+  * [Database Schema](#database-schema)
+* [Structure](#design)
+  * [Features](#features)
+  * [Features For Future Implementation](#features-for-future-implementation)
+* [Technologies Used](#technologies-used)
+  * [ Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
+* [Testing](#Testing)
+* [Deployment](#deployment)
+  * [Version Control](#version-control)
+  * [Run locally](#run-locally)
+* [Credits](#credits)
+* [Acknowledgements](#acknowledgements)
 
-A blue button should appear to click: _Make Public_,
+- - - 
 
-Another blue button should appear to click: _Open Browser_.
+## Languages Used
 
-By Default, Gitpod gives you superuser security privileges. Therefore, you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+*  [HTML5](https://en.wikipedia.org/wiki/HTML5)
+*  [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+*  [JS](https://en.wikipedia.org/wiki/JavaScript)
+*  [Python](https://en.wikipedia.org/wiki/Python)
 
-To log into the Heroku toolbelt CLI:
+![HTML5](https://img.shields.io/badge/html5-orange.svg?style=for-the-badge&logo=html5&logoColor=orange&color=172416&Color=orange)![CSS](https://img.shields.io/badge/css3-blue.svg?style=for-the-badge&logo=css3&logoColor=blue&color=172416&Color=blue)![JS](https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=yellow&color=172416&Color=yellow)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+- - - 
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you, so do not share it. If you accidentally make it public, you can create a new one with _Regenerate API Key_.
+## User-Experience-Design
 
-### Connecting your Mongo database
+-   ### User stories
 
-- **Connect to Mongo CLI on a IDE**
-- navigate to your MongoDB Clusters Sandbox
-- click **"Connect"** button
-- select **"Connect with the MongoDB shell"**
-- select **"I have the mongo shell installed"**
-- choose **mongosh (2.0 or later)** for : **"Select your mongo shell version"**
-- choose option: **"Run your connection string in your command line"**
-- in the terminal, paste the copied code `mongo "mongodb+srv://<CLUSTER-NAME>.mongodb.net/<DBname>" --apiVersion 1 --username <USERNAME>`
-  - replace all `<angle-bracket>` keys with your own data
-- enter password _(will not echo **\*\*\*\*** on screen)_
+    -   #### First Time User Goals
 
-------
+        1. As a first time user, 
+        2. As a first time user, 
+        4. As a first time user, 
+        
+    
+    -   #### Returning User Goals
 
-## Release History
+        1. As a returning user, 
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+    -   #### Site Administrator
 
-**June 18, 2024,** Add Mongo back into template
+        1. As the site administrator, 
+- - - 
 
-**June 14, 2024,** Temporarily remove Mongo until the key issue is resolved
+## Design
 
-**May 28 2024:** Fix Mongo and Links installs
+-   ### Colour Scheme
 
-**April 26 2024:** Update node version to 16
+    * 
 
-**September 20 2023:** Update Python version to 3.9.17.
+-   ### Typography
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+    * 
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+-   ### Imagery
+    * 
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+-   ### Wireframes
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+    * []() (desktop)
+    * []() (tablet device) 
+    * []() (mobile device)
+    * [Register]() (desktop)
+    * [Register]() (tablet device) 
+    * [Register]() (mobile device) 
+    * [Login]() (desktop)
+    * [Login]() (tablet device) 
+    * [Login]() (mobile device)
+    * []() (desktop)
+    * []() (tablet device) 
+    * []() (mobile device) 
+    * []() (desktop)
+    * []() (tablet device) 
+    * []() (mobile device)
+    * []() (desktop)
+    * []() (tablet device) 
+    * []() (mobile device)
+    * []() (desktop)
+    * []() (tablet device) 
+    * []() (mobile device) 
+    * []() (desktop)
+    * []() (tablet device) 
+    * []() (mobile device)
+    * []() (desktop)
+    * []() (tablet device) 
+    * []() (mobile device)
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+-   ### Database Schema
+    * The database was designed using Lucid Chart(see credits). 
+    * [EDR diagram]()
+    * There are 3 tables within this relational database:  
+    
+- - - 
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+## Structure
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+There are ... pages which make up the full site and are extended from a base template:
+* 
+* 404 error page (404.html)
+* 500 error page (500.html)
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+-   ### Features
+    * Responsive on device sizes with media screen size >280px
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+    -   #### Navigation Bar
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+        * 
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+       [Navigation Bar - desktop]()
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+       * The responsive navbar features a hamburger menu on medium sized devices and smaller
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+       [Navigation Bar- mobile device ]()
 
-------
+       [Navigation Bar- mobile device- hamburger menu open]()
 
-## FAQ about the uptime script
+    -   #### Background Image
 
-**Why have you added this script?**
+        * 
+        
+        [Background image]()
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+    -   #### Home page
 
-**How will this affect me?**
+        * 
+        
+        [Home page]()
+        [Home page - mobile device]()
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+    -   #### Register
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+        * 
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
+        [Register]()
+        [Register-mobile]()
 
-**So….?**
+    -   #### Login
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
+        * 
+      
+        [Login]()
+        [Login-mobile]()
 
-**Can I opt out?**
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
+    -   #### Footer
+         * Responsive. Features the site Title, links to the main pages and social links.
 
+         [Footer]()
+         [Footer - mobile device]()
+
+    -   #### 404 Error Page
+          * A 404 error page was created to ensure that if, for any reason, the webpage is unavailable, the user is taken to a message page which helps to redirect them back to the website.
+
+         [404 error page]()
+
+    -   #### 500 Error Page
+         * A 500 error page was created to ensure that if, for any reason, there is an internal server error, the user is taken to a message page which helps to redirect them back to the website.
+
+
+-   ### Features For Future Implementation
+    *  
+    
+- - - 
+
+## Technologies Used
+
+-   ### Frameworks, Libraries & Programs Used
+
+    * [Google Fonts](https://fonts.google.com/) were used to import the 'Bebas Neue' and 'Noto Serif' font into the style.css file which is used on all pages throughout the project. 
+    * [Bootstrap v5.3.2]() was used on all pages throughout the website to add icons for aesthetic and UX purposes
+    * [Gitpod](https://www.gitpod.io/) was the IDE used to build the project. Git was used for version control.
+    * [GitHub](https://github.com/) is used to store the projects code after being pushed from Git.
+    * [Balsamiq](https://balsamiq.com/) was used to create the wireframes to support in the design process.
+    * [Django]()
+    * [Jinja](https://jinja.palletsprojects.com/en/3.1.x/) - templating engine
+    * [Pip](https://pypi.org/project/pip/) - tool for installing python packages
+    * [Lucid Chart](https://lucid.app/lucidchart/c05f73cc-9dcc-4449-bd72-3098abe54692/edit?invitationId=inv_1c31fd92-4378-45d3-93c0-a252029cd87d&page=0_0#) was used to design the EDR model when planning the database
+    * The site was deployed using [Heroku](https://www.heroku.com) and the database used alongside this was PostgreSQL fro Code Institute
+    * [Shields.io](https://shields.io/badges) was used for the shields used within the Readme
+    * [Favicon.io](https://favicon.io/) was used to design the favicon for the site
+    * [Chrome Developer Tools](https://developer.chrome.com/docs/devtools) was used throughout, to troubleshoot, solve bugs, test site features and responsiveness
+    * [amiresponsive](https://ui.dev/amiresponsive) was used to create the responsive screen imagery for the site
+
+- - - 
+
+## Testing
+
+Extensive testing was carried out on this project. Please review [Testing.md](TESTING.md) for all testing performed.
+
+- - - 
+
+## Deployment
+
+-   ### Version Control
+
+To deploy Take A Hike to Heroku, take the following steps:
+1. Create a requirements.txt file using the terminal command `pip freeze > requirements.txt`
+2. Create a Procfile with the terminal command `echo web: python app.py > Procfile`. Ensure you use a capital 'P' for this file.
+3. `git add` and `git commit` these changes and `git push` to GitHub repository
+4. Go to the Heroku website and login. Create a new app by clicking the "New" button in your dashboard.
+5. Give the app and name and set the region to Europe(or your closest region)
+6. From the heroku dashboard of the new app, click on "Deploy" > "Deployment method" and select Github
+7. Confirm the link to the correct GitHub repository
+8. In the heroku dashboard for the application. click on the "settings" > "Reveal Config Vars"
+9. Set the following Config Vars:
+
+|   | Key            | Value          |   |
+|---|----------------|----------------|---|
+|   | DB_URL         |     |   |
+|   | IP             |       |   |
+|   | PORT           |            |   |
+|   | SECRET_KEY     |    |   |
+
+(this is an example, actual env variable not disclosed to maintain security. To get the db url follow [CI PosgreSQL]())
+
+10. In the Heroku dashboard, click "Deploy"
+11. In the "Manual Deployment" section, ensure the master branch is selected then click "Deploy Branch"
+11. The site is now deployed
+12. To connect to the database click the more button on the Heroku dashboard and select run console.
+13. Type python3 and once the interpreter opens, run the following:
+```bash
+from ... import db
+db.create_all()
+exit()
 ```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
 
-**Anything more?**
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+-   ### Run locally
 
----
+**Fork**
+1. Login or Sign Up to GitHub.
+2. Open the project [Repository]().
+3. Click the Fork button in the top right corner.
+4. You should now have a copy of the repository in your Github
 
-Happy coding!
+**Local Clone**
+1. Login or Sign Up to GitHub.
+2. Open the project [Repository]().
+3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+4. Open the terminal in the code editor of your choice and change the current working directory to the location you want to use for the cloned directory. 
+5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
+6. Set up the working environment (not necessary if using the CI Gitpod template as this is already set up for you)
+7. Run `pip install -r requirements.txt` in the terminal to install the packages
+8. Everything should now be set up locally
+
+- - - 
+
+## Credits
+
+   ### Content
+
+- 
+- Content was written by Chloe Livingstone-Evans.
+
+- - - - 
+
+   ### Media Images
+
+- 
+
+- - - 
+
+## Acknowledgements
+
+-  My family for their patience whilst I enjoyed myself coding.
+-  My brilliant mentor Daisy McGee, for her excellent advice, patience and passion for teaching.
