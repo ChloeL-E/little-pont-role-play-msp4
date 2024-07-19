@@ -63,16 +63,30 @@ This website has been built using HTML, CSS, Javascript and Python.
 
 -   ### User stories
 
-    -   #### First Time User Goals
+    -   #### Viewing and Navigation
 
-        1. As a first time user, 
-        2. As a first time user, 
-        4. As a first time user, 
+        1. As a site user, i want to be able to view the website on a range of device size and it needs to be aestheitc and functional
+        2. As a parent/guardian, i want to easily understand the purpose of the webite
+        3. As a parent/guardian, i want to be able to view course details to understand which course is suitable for my child.
+        4. As a parent/guardian, i want to be able to see the available courses, the course dates and times so that i can decide if it is suitable to book.
+        4. As a registered site user, i want to view the contents of my shopping basket and be able to add, edit or delete any items in it. 
+        5. As a registered site user, i want to have a personlalised profile where i am able to view my order history and update my profile details
+        6. As a parent/guardian, i want to be abe to meet the team who run the courses and understand more about them and their qualifications so that i know the sessions are being run by competent pracitioners
+        7. As a parent/guardian, i want to be able to see where the courses are being held so that i know where i am going to be travelling to and can plan my journey
+        8. As a site user, i want to be able to contact the site owners if i have any queries and recieve email confirmation that my message has been successfully sent
+        9. As a parent/guardian, i want to be able to make a party booking enquiry
         
     
-    -   #### Returning User Goals
+    -   #### Registration and User Account
 
-        1. As a returning user, 
+        1. As site user, i want to be able to easily register and account
+        2. As a registered user, i want to easily be able to login and logout of my account
+        3. As a registered user, i want to be able to recover my password if i have forgotten it
+        4. As a registered user, i want to recieve an email to confirm that i have successfully regitered an account
+        5. As site admin, i want to ensure all form fields are completed correctly
+        6. As a site admin, i want ot be able to easily add, edit and delete courses so that i have full control over what courses i make available to the user
+        7. As a site admin, i want to eaasily be able to add, edit or delete a users order in case they have made a booking error and it needs to be ammended, in order to provide a good user experience for them.
+        8. 
 
     -   #### Site Administrator
 
